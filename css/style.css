@@ -1,0 +1,14 @@
+.nav{
+    background-color: #45d89b91;
+    color: rgb(88, 88, 88)
+}
+.nav-link{
+    background-color:#4aeba891;
+    color: rgb(88, 88, 88);
+    /* border-color: green;
+    border-style: inset; */
+}
+body{
+    background-image: url(../images/arch-bridge-clouds-814499.jpg);
+    background-size: 100%;
+}
