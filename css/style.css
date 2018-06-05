@@ -39,6 +39,9 @@ footer{
     border-top: solid white 1px;
     /* border: green inset; */
 }
+#background-style{
+    background-color: rgba(101, 238, 101, 0.616);
+}
 /* h1{s
     float: left;
 } */
